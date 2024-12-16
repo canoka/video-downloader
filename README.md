@@ -26,7 +26,7 @@ Bu projeyi kullanmadan önce aşağıdaki gereksinimlerin yüklü olduğundan em
 
 1. Bu projeyi klonlayın:
    ```bash
-   git clone https://github.com/<kullanici-adi>/video-downloader.git
+   git clone https://github.com/canoka/video-downloader.git
    cd video-downloader
    ```
 
